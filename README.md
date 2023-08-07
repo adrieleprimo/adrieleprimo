@@ -1,4 +1,6 @@
-My name is Adriele and I'm a Back-end Developer 
+My name is Adriele 🙋‍♀️
+------------------------------
+I'm a Back-end Developer 💻
 ------------------------------
 
 I have been learning about programming for a few months now, and I am currently focusing on back-end using Java as the main language to start. In addition, I've already had contact with Python and JavaScript along with CSS and HTML.
