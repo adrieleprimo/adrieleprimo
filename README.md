@@ -1,6 +1,6 @@
 Hi, my name is Adriele Primo 🙋‍♀️
 ------------------------------
-I'm a Back-end Developer 💻
+A Back-end Developer 💻
 ------------------------------
 
 I have been learning about programming for a few months now, and I am currently focusing on back-end using Java as the main language to start. In addition, I've already had contact with Python and JavaScript along with CSS and HTML.
