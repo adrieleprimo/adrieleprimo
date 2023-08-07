@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adriele
 ===============================================================================================================================
 
-Back-end Developer in training
+A Back-end Developer 
 ------------------------------
 
 I have been learning about programming for a few months now, and I am currently focusing on back-end using Java as the main language to start. In addition, I've already had contact with Python and JavaScript along with CSS and HTML.
