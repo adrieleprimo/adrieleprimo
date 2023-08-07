@@ -1,4 +1,4 @@
-My name is Adriele 🙋‍♀️
+Hi, my name is Adriele 🙋‍♀️
 ------------------------------
 I'm a Back-end Developer 💻
 ------------------------------
