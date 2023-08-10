@@ -20,8 +20,6 @@ I have been learning about programming for a few months now, and I am currently 
                     
 ### Socials    
 <p align="left">
-                          
-<a href="https://discord.com/users/obtuosa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/adrieleprimo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
  <a href="https://www.linkedin.com/in/adriele-de-j-primo-0586a120a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 ### Badges
