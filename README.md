@@ -3,7 +3,7 @@ Hi, there! It's-a me, Adriele Primo 🙋‍♀️
 Back-end developer 💻
 ------------------------------
 
-Hello, my name is Adriele Primo, I'm just a 23-year-old and passionate about the field of technology. Currently, I have knowledge in the Java, JavaScript, and Python programming languages.
+Hello, my name is Adriele Primo, just a technology enthusiast, passionate about Java, but I also have knowledge of JavaScript and Python. Nice to meet u!
 
 *   🌍  I'm based in Salvador, Bahia, Brazil.
 *   ✉️  You can contact me at [adriele.dejprimo@gmail.com](mailto:adriele.dejprimo@gmail.com)
