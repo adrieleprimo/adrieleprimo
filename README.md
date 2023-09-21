@@ -1,13 +1,12 @@
 Hi, my name is Adriele Primo 🙋‍♀️
 ------------------------------
-Software Developer 💻
+Back-end developer 💻
 ------------------------------
 
-I have been learning about programming for a few months now, and I am currently focusing on back-end using Java as the main language to start. In addition, I've already had contact with Python and JavaScript along with CSS and HTML.
+Hello, my name is Adriele Primo, I'm just a 23-year-old and passionate about the field of technology. Currently, I have knowledge in the Java, JavaScript, and Python programming languages.
 
 *   🌍  I'm based in Salvador, Bahia, Brazil.
 *   ✉️  You can contact me at [adriele.dejprimo@gmail.com](mailto:adriele.dejprimo@gmail.com)
-*   🧠  I'm learning Java.
 *   ⚡  I love listening to the soundtrack of The legend of Zelda: Ocarina of time when i am studying.
   ### Skills 
 <p align="left">
