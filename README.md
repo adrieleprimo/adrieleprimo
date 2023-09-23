@@ -1,13 +1,13 @@
-Hi, there! It's-a me, Adriele Primo 🙋‍♀️
+Hi, there! It's-a me, Adriele 🙋‍♀️
 ------------------------------
 Back-end developer 💻
 ------------------------------
 
-Hello, my name is Adriele Primo, just a technology enthusiast, passionate about Java, but I also have knowledge of JavaScript and Python. Nice to meet u!
+Ny name is Adriele Primo, just a technology enthusiast, passionate about Java, but I also have knowledge of JavaScript and Python. Nice to meet u!
 
 *   🌍  I'm based in Salvador, Bahia, Brazil.
 *   ✉️  You can contact me at [adriele.dejprimo@gmail.com](mailto:adriele.dejprimo@gmail.com)
-*   ⚡  I love listening to the soundtrack of The legend of Zelda: Ocarina of time when i am studying.
+*   ⚡  I love listening to the soundtrack of The legend of Zelda: Ocarina of time when I am studying.
   ### Skills 
 <p align="left">
   
