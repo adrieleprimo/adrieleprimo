@@ -23,9 +23,7 @@ My name is Adriele Primo, just a technology enthusiast, passionate about Java, b
   
 <a href="https://www.github.com/adrieleprimo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
  <a href="https://www.linkedin.com/in/adrieleprimo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
- <a target="_blank" href="adriele.dejprimo@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+ 
 ### Badges
 <a href="https://github.com/adrieleprimo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrieleprimo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
