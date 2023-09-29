@@ -24,6 +24,8 @@ My name is Adriele Primo, just a technology enthusiast, passionate about Java, b
  <a href="https://www.linkedin.com/in/adrieleprimo" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="32" height="32" /></a>
  
 ### Badges
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrieleprimo&repo=ChessSystem&theme=dark)](https://github.com/adrieleprimo/ChessSystem)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrieleprimo&repo=adrieleprimo.github.io&theme=dark)](https://github.com/adrieleprimo/adrieleprimo.github.io)
 <a href="https://github.com/adrieleprimo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrieleprimo&theme=dark&hide_langs_below=1" />
 </a>
@@ -31,8 +33,7 @@ My name is Adriele Primo, just a technology enthusiast, passionate about Java, b
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=adrieleprimo&show_icons=true&theme=dark&line_height=27&rank_icon=github" alt="Adriele github stats"/>
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrieleprimo&repo=ChessSystem&theme=dark)](https://github.com/adrieleprimo/ChessSystem)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrieleprimo&repo=adrieleprimo.github.io&theme=dark)](https://github.com/adrieleprimo/adrieleprimo.github.io)
+
 
 
 ![github-contribution-grid-snake](https://github.com/adrieleprimo/adrieleprimo/blob/output/github-contribution-grid-snake.svg)
