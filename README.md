@@ -32,6 +32,7 @@ My name is Adriele Primo, just a technology enthusiast, passionate about Java, b
 </a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrieleprimo&repo=ChessSystem&theme=dark)](https://github.com/adrieleprimo/ChessSystem)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrieleprimo&repo=adrieleprimo.github.io&theme=dark)](https://github.com/adrieleprimo/adrieleprimo.github.io)
 
 
 ![github-contribution-grid-snake](https://github.com/adrieleprimo/adrieleprimo/blob/output/github-contribution-grid-snake.svg)
