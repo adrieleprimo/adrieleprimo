@@ -1,13 +1,13 @@
-Hi, there! It's-a me, Adriele 🙋‍♀️
+Hi, there! It's-a me, Adriele :bug:	
 ------------------------------
 Back-end developer 💻
 ------------------------------
 
 My name is Adriele Primo, just a technology enthusiast, passionate about Java, but I also have knowledge of JavaScript and Python. Nice to meet u!
 
-*   🌍  I'm based in Salvador, Bahia, Brazil.
-*   ✉️  You can contact me at [adriele.dejprimo@gmail.com](mailto:adriele.dejprimo@gmail.com)
-*   ⚡  I love listening to the soundtrack of The legend of Zelda: Ocarina of time when I am studying.
+*   :world_map:	I'm based in Salvador, Bahia, Brazil.
+*   :house: 	 You can contact me at [adriele.dejprimo@gmail.com](mailto:adriele.dejprimo@gmail.com)
+*   :seedling:  I love listening to the soundtrack of The legend of Zelda: Ocarina of time when I'm studying.
   ### Skills 
 <p align="left">
   
@@ -24,7 +24,12 @@ My name is Adriele Primo, just a technology enthusiast, passionate about Java, b
  <a href="https://www.linkedin.com/in/adrieleprimo" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="32" height="32" /></a>
  
 ### Badges
-<a href="https://github.com/adrieleprimo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrieleprimo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/adrieleprimo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrieleprimo&theme=synthwave&hide_langs_below=1" />
+</a>
+<a href="https://github.com/adrieleprimo">
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=adrieleprimo&show_icons=true&theme=synthwave&line_height=27&rank_icon=github" alt="Adriele github stats"/>
+</a>
 
 
 ![github-contribution-grid-snake](https://github.com/adrieleprimo/adrieleprimo/blob/output/github-contribution-grid-snake.svg)
