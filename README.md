@@ -25,10 +25,8 @@ My name is Adriele Primo, just a technology enthusiast, passionate about Java, b
  
 ### Badges
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrieleprimo&repo=ChessSystem&theme=dark)](https://github.com/adrieleprimo/ChessSystem)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrieleprimo&repo=adrieleprimo.github.io&theme=dark)](https://github.com/adrieleprimo/adrieleprimo.github.io)
-<a href="https://github.com/adrieleprimo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrieleprimo&theme=dark&hide_langs_below=1" />
-</a>
+
+
 <a href="https://github.com/adrieleprimo">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=adrieleprimo&show_icons=true&theme=dark&line_height=27&rank_icon=github" alt="Adriele github stats"/>
 </a>
