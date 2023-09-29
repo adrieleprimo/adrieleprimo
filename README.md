@@ -1,6 +1,6 @@
 Hi, there! It's-a me, Adriele :bug:	
 ------------------------------
-Back-end developer 💻
+Back-end developer :desktop_computer:
 ------------------------------
 
 My name is Adriele Primo, just a technology enthusiast, passionate about Java, but I also have knowledge of JavaScript and Python. Nice to meet u!
