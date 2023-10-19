@@ -17,6 +17,7 @@ My name is Adriele Primo, just a technology enthusiast, passionate about Java, b
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="36" height="36" alt="Node.js" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="36" height="36" alt="TypeScript" /></a>
 </p>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" width="36" height="36" alt="Angular" /></a>
 
 ### Socials    
 <p align="left">
