@@ -6,7 +6,7 @@ Back-end developer :desktop_computer:
 My name is Adriele Primo, just a technology enthusiast, passionate about Java, but I also have knowledge of JavaScript and Python. Nice to meet u!
 
 *   :world_map:	I live in Salvador, Bahia, Brazil.
-*   :house: 	 You can contact me at [adriele.dejprimo@gmail.com](mailto:adriele.dejprimo@gmail.com)
+*   💬 	 You can contact me at [adriele.dejprimo@gmail.com](mailto:adriele.dejprimo@gmail.com)
 *   :seedling:  I love listening to the soundtrack of The legend of Zelda: Ocarina of time when I'm studying.
   ### Skills 
 <p align="left">
