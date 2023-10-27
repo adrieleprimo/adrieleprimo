@@ -3,7 +3,7 @@ Hi, there! It's-a me, Adriele :bug:
 Back-end developer :desktop_computer:
 ------------------------------
 
-My name is Adriele Primo, just a technology enthusiast, passionate about Java, but I also have knowledge of JavaScript and Python. Nice to meet u!
+My name is Adriele Primo, just a technology enthusiast, passionate about Java, but I also have knowledge of JavaScript, Node.js, TypeScript and Angular. Nice to meet u!
 
 *   :world_map:	I live in Salvador, Bahia, Brazil.
 *   💬 	 You can contact me at [adriele.dejprimo@gmail.com](mailto:adriele.dejprimo@gmail.com)
