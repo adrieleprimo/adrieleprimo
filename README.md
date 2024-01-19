@@ -1,6 +1,6 @@
 Hi, there! It's-a me, Adriele :bug:	
 ------------------------------
-Full Stack Development :desktop_computer:
+Full-Stack Developer :desktop_computer:
 ------------------------------
 I am a software developer passionate about crafting innovative and efficient solutions. 
 
