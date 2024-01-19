@@ -1,9 +1,8 @@
 Hi, there! It's-a me, Adriele :bug:	
 ------------------------------
-Software developer :desktop_computer:
+Full Stack Development :desktop_computer:
 ------------------------------
-
-My name is Adriele Primo, just a technology enthusiast, passionate about Java, but I also have knowledge of JavaScript, Node.js, TypeScript and Angular. Nice to meet u!
+I am a software developer passionate about crafting innovative and efficient solutions. 
 
 *   :world_map:	I live in Salvador, Bahia, Brazil.
 *   💬 	 You can contact me at [adriele.dejprimo@gmail.com](mailto:adriele.dejprimo@gmail.com)
