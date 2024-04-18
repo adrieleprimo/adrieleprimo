@@ -5,7 +5,7 @@ Software Developer :desktop_computer:
 I am a software developer passionate about crafting innovative and efficient solutions. 
 
 *   :world_map:	I live in Brazil.
-*   💬 You can contact me at <a style="color: inherit;" href="mailto:adriele.dejprimo@gmail.com">adriele.dejprimo@gmail.com</a>
+*   💬 You can contact me at <a style="color: inherit;" href="https://www.linkedin.com/in/adrieleprimo/">Linkedin</a>
 *   :seedling:  I love listen some soundtracks of games like The Legend of Zelda: Ocarina of time, Stardew Valley, Dota 2, Chrono Trigger etc., when I'm studying.
   ### Skills   
 <p align="left">
